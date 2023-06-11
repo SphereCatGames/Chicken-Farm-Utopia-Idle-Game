@@ -21,7 +21,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [GameAnalytics](https://gameanalytics.com/privacy)
